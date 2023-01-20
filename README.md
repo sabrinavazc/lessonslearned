@@ -43,7 +43,7 @@ Você vai desenvolver um site que contenha uma série de informações sobre o q
 
 - Será `1` dia de projeto.
 
-- Data para entrega final do projeto: `27/01/2023 14:00`.
+- Data para entrega do projeto: `27/01/2023 14:00`.
 
 </details>
 
