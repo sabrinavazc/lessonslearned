@@ -1,3 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background-color: rgb(253,251,251);
+}
+
+#cabecalho{
+    background-color: #0a7e51;
+    top: 0;
+    max-width: 100%;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+#titulo{
+    color: white;
+    line-height: 100px;
+    font-weight: 900px;
+    font-size: 35px;
+    text-align: center;
 }
