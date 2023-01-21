@@ -24,3 +24,11 @@ body{
     font-size: 35px;
     text-align: center;
 }
+
+
+#minha_foto{
+    width: 400px;
+    position:fixed;
+    top: 150px;
+
+}
