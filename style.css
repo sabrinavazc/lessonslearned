@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(253,251,251);
+    background-color: rgb(253, 251, 251);
 }
 
 h2{
@@ -64,7 +64,7 @@ nav{
 }
 
 #minha_foto{
-    width: 340px;
+    width: 342px;
     position:relative;
     top: 58px;
 }
@@ -72,8 +72,10 @@ nav{
 .container_photo_article{  
     display: flex;
     align-items:center;
-    background-color: rgb(246, 251, 247);
+    background-color: rgb(255, 255, 255);
     border-bottom: 4px solid rgb(243, 248, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
 }
 
 .myself{
@@ -89,6 +91,8 @@ nav{
     margin-top: 30px;
     display: flex;
     font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    height: 90px;
+    font-size: 13px;
 }
 .licoes_aprendidas {
      margin-top: 30px;
@@ -110,3 +114,18 @@ nav{
     padding-top: 4px;
 }
 
+footer{
+    border-bottom: 4px solid rgb(243, 248, 238);
+    background-color: #0a7e51;
+    text-align: center;
+    display: flex;
+    
+}
+
+#rodape{
+    font-size: 10px;
+    width: 31%;
+    padding: 1%;  
+    color: whitesmoke;  
+    margin-left: 350px;
+}
