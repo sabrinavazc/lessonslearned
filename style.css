@@ -53,26 +53,47 @@ nav{
 }
 
 #minha_foto{
-    width: 300px;
+    width: 340px;
     position:relative;
-    top: 80px;
+    top: 58px;
 }
 
 .container_photo_article{  
     display: flex;
     align-items:center;
-    
+    background-color: rgb(246, 251, 247);
+    border-bottom: 4px solid rgb(243, 248, 238);
 }
 
 .myself{
     float: right; 
-    margin-top: 230px;
-    max-width: 450px;
-    margin-left: 50px;
+    margin-top: 220px;
+    max-width: 500px;
+    margin-left: 150px;
     text-align: justify;
-    
 }
 
+.lists{
+    display:flex;
+    align-items:center;
+    background-color: rgb(233, 240, 234);
+    border-bottom: 4px solid rgb(243, 248, 238);
+    list-style-type: none;
+}
+
+.lists ul li{
+    list-style-type: none;
+    padding-right: 14px;
+    float: right;
+    margin-top: 50px;
+    
+}
+.lists ol li{
+  list-style: none;
+    padding-right: 14px;
+    float: left;
+    margin-left: 100px;
+}
 
 /* .article{
     float: left;
