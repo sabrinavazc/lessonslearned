@@ -53,24 +53,24 @@ nav{
 }
 
 #minha_foto{
-    width: 300px;
+    width: 350px;
     position:relative;
-    top: 80px;
+    top: 100px;
 }
 
 .container_photo_article{  
     display: flex;
     align-items:center;
+    background-color: #d1f5e782;
     
 }
 
 .myself{
     float: right; 
-    margin-top: 230px;
+    margin-top: 200px;
     max-width: 450px;
-    margin-left: 50px;
+    margin-left: 30px;
     text-align: justify;
-    
 }
 
 
